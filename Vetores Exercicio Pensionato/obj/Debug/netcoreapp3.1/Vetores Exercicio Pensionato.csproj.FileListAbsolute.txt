@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\códigos\ws-v2019\Vetores Exercicio Pensionato\Vetores Exercicio Pensionato\bin\Debug\netcoreapp3.1\Vetores Exercicio Pensionato.exe
+C:\Users\Lucas\Desktop\códigos\ws-v2019\Vetores Exercicio Pensionato\Vetores Exercicio Pensionato\bin\Debug\netcoreapp3.1\Vetores Exercicio Pensionato.deps.json
+C:\Users\Lucas\Desktop\códigos\ws-v2019\Vetores Exercicio Pensionato\Vetores Exercicio Pensionato\bin\Debug\netcoreapp3.1\Vetores Exercicio Pensionato.runtimeconfig.json
+C:\Users\Lucas\Desktop\códigos\ws-v2019\Vetores Exercicio Pensionato\Vetores Exercicio Pensionato\bin\Debug\netcoreapp3.1\Vetores Exercicio Pensionato.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\códigos\ws-v2019\Vetores Exercicio Pensionato\Vetores Exercicio Pensionato\bin\Debug\netcoreapp3.1\Vetores Exercicio Pensionato.dll
+C:\Users\Lucas\Desktop\códigos\ws-v2019\Vetores Exercicio Pensionato\Vetores Exercicio Pensionato\bin\Debug\netcoreapp3.1\Vetores Exercicio Pensionato.pdb
+C:\Users\Lucas\Desktop\códigos\ws-v2019\Vetores Exercicio Pensionato\Vetores Exercicio Pensionato\obj\Debug\netcoreapp3.1\Vetores Exercicio Pensionato.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\códigos\ws-v2019\Vetores Exercicio Pensionato\Vetores Exercicio Pensionato\obj\Debug\netcoreapp3.1\Vetores Exercicio Pensionato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\códigos\ws-v2019\Vetores Exercicio Pensionato\Vetores Exercicio Pensionato\obj\Debug\netcoreapp3.1\Vetores Exercicio Pensionato.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\códigos\ws-v2019\Vetores Exercicio Pensionato\Vetores Exercicio Pensionato\obj\Debug\netcoreapp3.1\Vetores Exercicio Pensionato.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\códigos\ws-v2019\Vetores Exercicio Pensionato\Vetores Exercicio Pensionato\obj\Debug\netcoreapp3.1\Vetores Exercicio Pensionato.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\códigos\ws-v2019\Vetores Exercicio Pensionato\Vetores Exercicio Pensionato\obj\Debug\netcoreapp3.1\Vetores Exercicio Pensionato.dll
+C:\Users\Lucas\Desktop\códigos\ws-v2019\Vetores Exercicio Pensionato\Vetores Exercicio Pensionato\obj\Debug\netcoreapp3.1\Vetores Exercicio Pensionato.pdb
+C:\Users\Lucas\Desktop\códigos\ws-v2019\Vetores Exercicio Pensionato\Vetores Exercicio Pensionato\obj\Debug\netcoreapp3.1\Vetores Exercicio Pensionato.genruntimeconfig.cache
